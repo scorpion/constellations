@@ -2,4 +2,4 @@
 
 # Constellations
 
-Comming soon. Constellations by scorpion.io will allow orchestration of open source projects.
+Comming soon. Constellations by [scorpion.io](https://scorpion.io) will allow orchestration of open source projects.
