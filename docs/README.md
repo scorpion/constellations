@@ -1,4 +1,4 @@
-<p align="center"><img alt="Meta Logo" src="docs/images/constellations.png" /></p>
+<p align="center"><img alt="Meta Logo" src="images/constellations.png" /></p>
 
 # Constellations
 
@@ -6,4 +6,4 @@ Coming soon. Constellations by [scorpion.io](https://scorpion.io) will allow orc
 
 ## CLI
 
-To use `co`nstellations, you will need to install the [scorpion CLI](https://github.com/scorpion/cli).
+To use `co` nstellations, you will need to install the [scorpion CLI](https://github.com/scorpion/cli).
