@@ -29,6 +29,7 @@ Please see [constellations.sh](https://constellations.sh) for more information o
 These are the currently supported docker images that serve as the foundations and building blocks for an asterism.
 
 - [PHP](https://github.com/scorpion/php)
+- [Neo4j](https://github.com/scorpion/neo4j)
 
 ### constellation.toml
 
